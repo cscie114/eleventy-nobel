@@ -1,0 +1,18 @@
+---
+title: Chemistry Prizes
+layout: base
+---
+{% comment %}
+https://api.nobelprize.org/2.1/nobelPrizes?nobelPrizeYear=2000&yearTo=2022&nobelPrizeCategory=che&sort=desc
+{% endcomment %}
+
+{% for prize in chemistry.nobelPrizes %}
+  <h3>{{ prize.categoryFullName.en }} {{ prize.awardYear }}</h3>
+  <ul class="listing">
+    {% for person in prize.laureates %}
+      <li>
+        <span class="name">{{ person.knownName.en }}</span><br/><span class="motivation">{{ person.motivation.en }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+{% endfor %}

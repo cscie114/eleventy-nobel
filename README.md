@@ -1,5 +1,9 @@
 # eleventy-nobel
 
-Chemistry awards, 2000 to 2022:
-https://api.nobelprize.org/2.1/nobelPrizes?nobelPrizeYear=2000&yearTo=2022&nobelPrizeCategory=che&sort=desc
+This is a demonstration site that uses [Eleventy (11ty)](https://11ty.dev/) site generator and data from the [Nobel Prize API](https://www.nobelprize.org/about/developer-zone-2/).
+
+This example demonstrates using JSON file data in 11ty as well as JSON data from APIs, along with pagination and collections.
+
+This example is part of the course [CSCI E-114, Web Application Development Using Jamstack](https://courses.dce.harvard.edu/?details&crn=26437), offered through [Harvard Extension School](https://extension.harvard.edu/).
+
 

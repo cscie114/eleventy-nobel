@@ -68,9 +68,10 @@ header nav {
 main p {
     line-height: 1.5;
 }
-
+li { margin-bottom: 0.5rem; }
+.listing li.start { border-top: thin solid black; padding-top: 0.25rem;}
 h3 { margin-bottom: 0; padding-bottom: 0; }
 ul.listing { line-height: 1.25; margin-top: 0.5rem;}
-ul.listing li { margin-bottom: 0.25rem;}
+ul.listing li { margin-bottom: 0.5rem;}
 ul.listing li .name { font-weight: bold;}
 ul.listing li .motivation { font-style: italic; }

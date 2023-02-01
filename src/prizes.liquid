@@ -9,20 +9,25 @@ pagination:
 permalink: "prizes/{{ prz.awardYear  | slug }}-{{ prz.category.en | slug}}/"
 tags: 
     - 'prizes'
-    - 'recent'
 eleventyComputed:
     title: "{{ prz.awardYear }} {{ prz.categoryFullName.en }}"
+    shortTitle: "{{ prz.awardYear }} {{ prz.category.en }}"
+    year: "{{ prz.awardYear }}"
 ---
-<ul class="listing">
+
+<ul
+  class="listing">
   {% for laureate in prz.laureates %}
     <li>
-      <span class="name">
+      <span
+        class="name">
         {% if laureate.knownName.en %}
           {{ laureate.knownName.en }}
         {% elsif laureate.orgName.en %}
           {{ laureate.orgName.en }}{% endif %}
       </span><br/>
-      <span class="motivation">{{ laureate.motivation.en }}</span>
+      <span
+        class="motivation">{{ laureate.motivation.en }}</span>
     </li>
   {% endfor %}
 </ul>

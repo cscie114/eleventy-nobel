@@ -7,12 +7,16 @@ module.exports = async function () {
   let baseUrl = "https://api.nobelprize.org/2.1/nobelPrizes";
   let userAgent = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:102.0) Gecko/20100101 Firefox/102.0';
   let sort = "desc";
+  let limit = 1000;
+  let yearStart = 2000;
+  let now = new Date();
+  let yearEnd = now.getFullYear();
 
   let prizeParams = {
     sort: sort,
-    limit: 1000,
-    nobelPrizeYear: 2022,
-    yearTo: 2017
+    limit: limit,
+    nobelPrizeYear: yearEnd,
+    yearTo: yearStart
   };
 
   try {

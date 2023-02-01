@@ -1,21 +1,23 @@
 ---
-title: Chemistry Prizes
+title: Demonstration of Eleventy Using Nobel Prize Data
 layout: base
 ---
-<h2>Chemistry Nobel Prizes</h2>
-{% for prize in chemistry.nobelPrizes %}
-  <p>{{ prize.awardYear }}</p>
-  <ul class="listing">
-    {% for laureate in prize.laureates %}
-      <li>
-        <span class="name">
-          {% if laureate.knownName.en %}
-            {{ laureate.knownName.en }}
-          {% elsif laureate.orgName.en %}
-            {{ laureate.orgName.en }}{% endif %}
-        </span><br/>
-        <span class="motivation">{{ laureate.motivation.en }}</span>
-      </li>
-    {% endfor %}
-  </ul>
-{% endfor %}
+
+<ul>
+  <li>
+    <a href="chemistry/">List of Chemistry Prizes</a><br/>
+    generated from
+    <code>src/chemistry.liquid</code>
+    and data from
+    <code>src/_data/chemistry.json</code>
+  </li>
+  <li>
+    <a href="prizes-list/">List of Prizes Awarded in the 21st Century</a>
+    <br/>
+    generated from
+    <code>src/_data/prizes.js</code>
+    and
+    <code>src/prizes-list.liquid</code>,
+    which includes pagination and creating a "prizes" collection.
+  </li>
+</ul>

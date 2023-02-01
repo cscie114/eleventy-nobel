@@ -1,0 +1,13 @@
+---
+title: Nobel Prizes in the 21st Century
+layout: base
+---
+<ul
+  class="prizes listing">
+  {% for item in collections.prizes %}
+    <li>
+      <a
+        href="{{ item.url }}">{{ item.data.shortTitle }}</a>
+    </li>
+  {% endfor %}
+</ul>

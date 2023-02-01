@@ -1,56 +1,21 @@
 ---
-title: Prizes from the last 5 years
+title: Chemistry Prizes
 layout: base
 ---
-{% comment %}
-<h3>Years</h3>
-<ul>
-{% for p in collections.2022 %}
-<li>
-<a href="{{ p.url }}">{{ p.data.title }}</a>
-</li>
+<h2>Chemistry Nobel Prizes</h2>
+{% for prize in chemistry.nobelPrizes %}
+  <p>{{ prize.awardYear }}</p>
+  <ul class="listing">
+    {% for laureate in prize.laureates %}
+      <li>
+        <span class="name">
+          {% if laureate.knownName.en %}
+            {{ laureate.knownName.en }}
+          {% elsif laureate.orgName.en %}
+            {{ laureate.orgName.en }}{% endif %}
+        </span><br/>
+        <span class="motivation">{{ laureate.motivation.en }}</span>
+      </li>
+    {% endfor %}
+  </ul>
 {% endfor %}
-</ul>
-
-<h3>Recent</h3>
-<ul>
-{% for p in collections.recent %}
-<li>
-<a href="{{ p.url }}">{{ p.data.title }}</a>
-</li>
-{% endfor %}
-</ul>
-
-<hr/>
-<h3>Laureates</h3>
-<ul>
-{% for l in collections.laureates %}
-<li>
-<a href="{{ l.url }}">{{ l.data.title }}</a>
-</li>
-{% endfor %}
-</ul>
-
-<hr/>
-{% endcomment %}<ul>
-  {% for prize in collections.prizes %}
-    <li>
-      <a href="{{ prize.url }}">{{ prize.data.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
-{% comment %}<h3>{{ prize.category.en }} {{ prize.awardYear }}</h3>
-<ul class="listing">
-{% for laureate in prize.laureates %}
-<li>
-<span class="name">
-{% if laureate.knownName.en %}
-{{ laureate.knownName.en }}
-{% elsif laureate.orgName.en %}
-{{ laureate.orgName.en }}{% endif %}
-</span><br/>
-<span class="motivation">{{ laureate.motivation.en }}</span>
-</li>
-{% endfor %}
-</ul>{% endcomment %}

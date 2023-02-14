@@ -1,24 +1,24 @@
 {
-  "name": "eleventy-nature-of-america-stamps",
+  "name": "elevent-nobel",
   "version": "1.0.0",
-  "description": "Eleventy Example using Nature of America Stamp Series",
+  "description": "Eleventy Example using Nobel Prizes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "eleventy",
-    "start": "eleventy --serve"
+    "build": "npx @11ty/eleventy",
+    "start": "npx @11ty/eleventy --serve --incremental"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cscie114/eleventy-nature-of-america-stamps.git"
+    "url": "git+https://github.com/cscie114/eleventy-nobel.git"
   },
   "author": "David Heitmeyer",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cscie114/eleventy-nature-of-america-stamps/issues"
+    "url": "https://github.com/cscie114/eleventy-nobel/issues"
   },
-  "homepage": "https://github.com/cscie114/eleventy-nature-of-america-stamps#readme",
+  "homepage": "https://github.com/cscie114/eleventy-nobel#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.2"
+    "@11ty/eleventy": "^2.0.0"
   }
 }

@@ -1,9 +1,9 @@
 ---
-title: Nobel Prizes in Chemistry
+title: Nobel Prizes
 layout: base
 ---
-{% for prize in chemistry.nobelPrizes %}
-  <p>{{ prize.awardYear }}</p>
+{% for prize in prizes.nobelPrizes %}
+  <h2>{{ prize.awardYear }} {{ prize.category.en }}</h2>
   <ul class="listing">
     {% for laureate in prize.laureates %}
       <li>

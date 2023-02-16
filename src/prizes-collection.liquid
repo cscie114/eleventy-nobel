@@ -1,0 +1,11 @@
+---
+title: Nobel Prizes
+layout: base
+---
+<ul>
+  {% for item in collections.prizes %}
+    <li>
+      <a href="{{ item.url }}">{{ item.data.title }}</a>
+    </li>
+  {% endfor %}
+</ul>

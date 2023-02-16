@@ -1,0 +1,26 @@
+---
+title: Nobel Prizes
+layout: base
+pagination: 
+  data: prizes.nobelPrizes
+  size: 1
+  alias: prize
+  addAllPagesToCollections: true
+permalink: "prizes/{{ prize.awardYear | slugify }}-{{ prize.category.en | slugify }}/"
+tags:
+  - "prizes"
+eleventyComputed:
+  title: "{{ prize.awardYear }} {{ prize.categoryFullName.en }}"
+---
+
+<h2>{{ prize.awardYear }} {{ prize.category.en }}</h2>
+<ul class="listing">
+  {% for laureate in prize.laureates %}
+    <li>
+      <span class="name">
+        {{ laureate.knownName.en }}
+      </span><br/>
+      <span class="motivation">{{ laureate.motivation.en }}</span>
+    </li>
+  {% endfor %}
+</ul>

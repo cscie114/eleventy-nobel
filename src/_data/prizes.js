@@ -13,13 +13,14 @@ module.exports = async function () {
   */
   let requestParams = {
     sort: "desc",
-    limit: 1000
+    limit: 1000,
+    offset: 0
   }
+
   let params = new URLSearchParams(requestParams);
   let queryString = params.toString();
-  console.log(queryString);
-  
-  let requestUrl = baseUrl + "?" + queryString;
+
+  let requestUrl = `${baseUrl}?${queryString}`;
 
   console.log(requestUrl);
   try {
@@ -27,9 +28,10 @@ module.exports = async function () {
       duration: "1d",
       type: "json"
     });
+    console.log(prizesData);
     return(prizesData);
   } catch (err) {
-    console.error("Something went wrong :( ");
+    console.error("Something went wrong with request\n" + requestUrl);
     console.log(err);
   }
 };

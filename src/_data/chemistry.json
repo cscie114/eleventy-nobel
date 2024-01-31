@@ -1,1651 +1,2122 @@
 {
-  "nobelPrizes": [
-    {
-      "awardYear": "2022",
-      "category": { "en": "Chemistry", "no": "Kjemi", "se": "Kemi" },
-      "categoryFullName": {
-        "en": "The Nobel Prize in Chemistry",
-        "no": "Nobelprisen i kjemi",
-        "se": "Nobelpriset i kemi"
-      },
-      "dateAwarded": "2022-10-05",
-      "prizeAmount": 10000000,
-      "prizeAmountAdjusted": 10000000,
-      "links": [
+    "nobelPrizes": [
         {
-          "rel": "nobelPrize",
-          "href": "https://api.nobelprize.org/2/nobelPrize/che/2022",
-          "action": "GET",
-          "types": "application/json"
-        }
-      ],
-      "laureates": [
-        {
-          "id": "1015",
-          "knownName": { "en": "Carolyn Bertozzi" },
-          "fullName": { "en": "Carolyn R. Bertozzi" },
-          "portion": "1/3",
-          "sortOrder": "1",
-          "motivation": {
-            "en": "for the development of click chemistry and bioorthogonal chemistry",
-            "se": "för utveckling av klickkemi och bioortogonal kemi"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/1015",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
+            "awardYear": "2023",
+            "category": {
+                "en": "Chemistry",
+                "no": "Kjemi",
+                "se": "Kemi"
+            },
+            "categoryFullName": {
+                "en": "The Nobel Prize in Chemistry",
+                "no": "Nobelprisen i kjemi",
+                "se": "Nobelpriset i kemi"
+            },
+            "dateAwarded": "2023-10-04",
+            "prizeAmount": 11000000,
+            "prizeAmountAdjusted": 11000000,
+            "links": [
+                {
+                    "rel": "nobelPrize",
+                    "href": "https://api.nobelprize.org/2/nobelPrize/che/2023",
+                    "action": "GET",
+                    "types": "application/json"
+                }
+            ],
+            "laureates": [
+                {
+                    "id": "1029",
+                    "knownName": {
+                        "en": "Moungi Bawendi"
+                    },
+                    "fullName": {
+                        "en": "Moungi G. Bawendi"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "1",
+                    "motivation": {
+                        "en": "for the discovery and synthesis of quantum dots",
+                        "se": "för upptäckt och syntes av kvantprickar"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/1029",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "1030",
+                    "knownName": {
+                        "en": "Louis Brus"
+                    },
+                    "fullName": {
+                        "en": "Louis E. Brus"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "2",
+                    "motivation": {
+                        "en": "for the discovery and synthesis of quantum dots",
+                        "se": "för upptäckt och syntes av kvantprickar"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/1030",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "1031",
+                    "knownName": {
+                        "en": "Aleksey Yekimov "
+                    },
+                    "fullName": {
+                        "en": "Aleksey Yekimov "
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "3",
+                    "motivation": {
+                        "en": "for the discovery and synthesis of quantum dots",
+                        "se": "för upptäckt och syntes av kvantprickar"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/1031",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                }
+            ]
         },
         {
-          "id": "1016",
-          "knownName": { "en": "Morten Meldal" },
-          "fullName": { "en": "Morten Meldal" },
-          "portion": "1/3",
-          "sortOrder": "2",
-          "motivation": {
-            "en": "for the development of click chemistry and bioorthogonal chemistry",
-            "se": "för utveckling av klickkemi och bioortogonal kemi"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/1016",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
+            "awardYear": "2022",
+            "category": {
+                "en": "Chemistry",
+                "no": "Kjemi",
+                "se": "Kemi"
+            },
+            "categoryFullName": {
+                "en": "The Nobel Prize in Chemistry",
+                "no": "Nobelprisen i kjemi",
+                "se": "Nobelpriset i kemi"
+            },
+            "dateAwarded": "2022-10-05",
+            "prizeAmount": 10000000,
+            "prizeAmountAdjusted": 10000000,
+            "links": [
+                {
+                    "rel": "nobelPrize",
+                    "href": "https://api.nobelprize.org/2/nobelPrize/che/2022",
+                    "action": "GET",
+                    "types": "application/json"
+                }
+            ],
+            "laureates": [
+                {
+                    "id": "1015",
+                    "knownName": {
+                        "en": "Carolyn Bertozzi"
+                    },
+                    "fullName": {
+                        "en": "Carolyn R. Bertozzi"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "1",
+                    "motivation": {
+                        "en": "for the development of click chemistry and bioorthogonal chemistry",
+                        "se": "för utveckling av klickkemi och bioortogonal kemi"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/1015",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "1016",
+                    "knownName": {
+                        "en": "Morten Meldal"
+                    },
+                    "fullName": {
+                        "en": "Morten Meldal"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "2",
+                    "motivation": {
+                        "en": "for the development of click chemistry and bioorthogonal chemistry",
+                        "se": "för utveckling av klickkemi och bioortogonal kemi"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/1016",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "743",
+                    "knownName": {
+                        "en": "K. Barry Sharpless"
+                    },
+                    "fullName": {
+                        "en": "K. Barry Sharpless"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "3",
+                    "motivation": {
+                        "en": "for the development of click chemistry and bioorthogonal chemistry",
+                        "se": "för utveckling av klickkemi och bioortogonal kemi"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/743",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                }
+            ]
         },
         {
-          "id": "743",
-          "knownName": { "en": "K. Barry Sharpless" },
-          "fullName": { "en": "K. Barry Sharpless" },
-          "portion": "1/3",
-          "sortOrder": "3",
-          "motivation": {
-            "en": "for the development of click chemistry and bioorthogonal chemistry",
-            "se": "för utveckling av klickkemi och bioortogonal kemi"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/743",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
+            "awardYear": "2021",
+            "category": {
+                "en": "Chemistry",
+                "no": "Kjemi",
+                "se": "Kemi"
+            },
+            "categoryFullName": {
+                "en": "The Nobel Prize in Chemistry",
+                "no": "Nobelprisen i kjemi",
+                "se": "Nobelpriset i kemi"
+            },
+            "dateAwarded": "2021-10-06",
+            "prizeAmount": 10000000,
+            "prizeAmountAdjusted": 10836735,
+            "links": [
+                {
+                    "rel": "nobelPrize",
+                    "href": "https://api.nobelprize.org/2/nobelPrize/che/2021",
+                    "action": "GET",
+                    "types": "application/json"
+                }
+            ],
+            "laureates": [
+                {
+                    "id": "1002",
+                    "knownName": {
+                        "en": "Benjamin List"
+                    },
+                    "fullName": {
+                        "en": "Benjamin List"
+                    },
+                    "portion": "1/2",
+                    "sortOrder": "1",
+                    "motivation": {
+                        "en": "for the development of asymmetric organocatalysis"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/1002",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "1003",
+                    "knownName": {
+                        "en": "David W.C. MacMillan"
+                    },
+                    "fullName": {
+                        "en": "David W.C. MacMillan"
+                    },
+                    "portion": "1/2",
+                    "sortOrder": "2",
+                    "motivation": {
+                        "en": "for the development of asymmetric organocatalysis"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/1003",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "awardYear": "2020",
+            "category": {
+                "en": "Chemistry",
+                "no": "Kjemi",
+                "se": "Kemi"
+            },
+            "categoryFullName": {
+                "en": "The Nobel Prize in Chemistry",
+                "no": "Nobelprisen i kjemi",
+                "se": "Nobelpriset i kemi"
+            },
+            "dateAwarded": "2020-10-07",
+            "prizeAmount": 10000000,
+            "prizeAmountAdjusted": 11074035,
+            "links": [
+                {
+                    "rel": "nobelPrize",
+                    "href": "https://api.nobelprize.org/2/nobelPrize/che/2020",
+                    "action": "GET",
+                    "types": "application/json"
+                }
+            ],
+            "laureates": [
+                {
+                    "id": "991",
+                    "knownName": {
+                        "en": "Emmanuelle Charpentier"
+                    },
+                    "fullName": {
+                        "en": "Emmanuelle Charpentier"
+                    },
+                    "portion": "1/2",
+                    "sortOrder": "1",
+                    "motivation": {
+                        "en": "for the development of a method for genome editing",
+                        "se": "för utveckling av en metod för genomeditering"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/991",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "992",
+                    "knownName": {
+                        "en": "Jennifer A. Doudna"
+                    },
+                    "fullName": {
+                        "en": "Jennifer A. Doudna"
+                    },
+                    "portion": "1/2",
+                    "sortOrder": "2",
+                    "motivation": {
+                        "en": "for the development of a method for genome editing",
+                        "se": "för utveckling av en metod för genomeditering"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/992",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "awardYear": "2019",
+            "category": {
+                "en": "Chemistry",
+                "no": "Kjemi",
+                "se": "Kemi"
+            },
+            "categoryFullName": {
+                "en": "The Nobel Prize in Chemistry",
+                "no": "Nobelprisen i kjemi",
+                "se": "Nobelpriset i kemi"
+            },
+            "dateAwarded": "2019-10-09",
+            "prizeAmount": 9000000,
+            "prizeAmountAdjusted": 10013620,
+            "links": [
+                {
+                    "rel": "nobelPrize",
+                    "href": "https://api.nobelprize.org/2/nobelPrize/che/2019",
+                    "action": "GET",
+                    "types": "application/json"
+                }
+            ],
+            "laureates": [
+                {
+                    "id": "976",
+                    "knownName": {
+                        "en": "John B. Goodenough"
+                    },
+                    "fullName": {
+                        "en": "John B. Goodenough"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "1",
+                    "motivation": {
+                        "en": "for the development of lithium-ion batteries",
+                        "se": "för utveckling av litiumjonbatterier"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/976",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "977",
+                    "knownName": {
+                        "en": "M. Stanley Whittingham"
+                    },
+                    "fullName": {
+                        "en": "M. Stanley Whittingham"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "2",
+                    "motivation": {
+                        "en": "for the development of lithium-ion batteries",
+                        "se": "för utveckling av litiumjonbatterier"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/977",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "978",
+                    "knownName": {
+                        "en": "Akira Yoshino"
+                    },
+                    "fullName": {
+                        "en": "Akira Yoshino"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "3",
+                    "motivation": {
+                        "en": "for the development of lithium-ion batteries",
+                        "se": "för utveckling av litiumjonbatterier"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/978",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "awardYear": "2018",
+            "category": {
+                "en": "Chemistry",
+                "no": "Kjemi",
+                "se": "Kemi"
+            },
+            "categoryFullName": {
+                "en": "The Nobel Prize in Chemistry",
+                "no": "Nobelprisen i kjemi",
+                "se": "Nobelpriset i kemi"
+            },
+            "dateAwarded": "2018-10-03",
+            "prizeAmount": 9000000,
+            "prizeAmountAdjusted": 10195200,
+            "links": [
+                {
+                    "rel": "nobelPrize",
+                    "href": "https://api.nobelprize.org/2/nobelPrize/che/2018",
+                    "action": "GET",
+                    "types": "application/json"
+                }
+            ],
+            "laureates": [
+                {
+                    "id": "963",
+                    "knownName": {
+                        "en": "Frances H. Arnold"
+                    },
+                    "fullName": {
+                        "en": "Frances H. Arnold"
+                    },
+                    "portion": "1/2",
+                    "sortOrder": "1",
+                    "motivation": {
+                        "en": "for the directed evolution of enzymes",
+                        "se": "för riktad evolution av enzymer"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/963",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "964",
+                    "knownName": {
+                        "en": "George P. Smith"
+                    },
+                    "fullName": {
+                        "en": "George P. Smith"
+                    },
+                    "portion": "1/4",
+                    "sortOrder": "2",
+                    "motivation": {
+                        "en": "for the phage display of peptides and antibodies",
+                        "se": "för fagdisplay av peptider och antikroppar"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/964",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "965",
+                    "knownName": {
+                        "en": "Sir Gregory P. Winter"
+                    },
+                    "fullName": {
+                        "en": "Sir Gregory P. Winter"
+                    },
+                    "portion": "1/4",
+                    "sortOrder": "3",
+                    "motivation": {
+                        "en": "for the phage display of peptides and antibodies",
+                        "se": "för fagdisplay av peptider och antikroppar"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/965",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "awardYear": "2017",
+            "category": {
+                "en": "Chemistry",
+                "no": "Kjemi",
+                "se": "Kemi"
+            },
+            "categoryFullName": {
+                "en": "The Nobel Prize in Chemistry",
+                "no": "Nobelprisen i kjemi",
+                "se": "Nobelpriset i kemi"
+            },
+            "dateAwarded": "2017-10-04",
+            "prizeAmount": 9000000,
+            "prizeAmountAdjusted": 10394780,
+            "links": [
+                {
+                    "rel": "nobelPrize",
+                    "href": "https://api.nobelprize.org/2/nobelPrize/che/2017",
+                    "action": "GET",
+                    "types": "application/json"
+                }
+            ],
+            "laureates": [
+                {
+                    "id": "944",
+                    "knownName": {
+                        "en": "Jacques Dubochet"
+                    },
+                    "fullName": {
+                        "en": "Jacques Dubochet"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "1",
+                    "motivation": {
+                        "en": "for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution",
+                        "se": "för utveckling av kryoelektronmikroskopi för högupplösande strukturbestämning av biomolekyler i lösning"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/944",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "945",
+                    "knownName": {
+                        "en": "Joachim Frank"
+                    },
+                    "fullName": {
+                        "en": "Joachim Frank"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "2",
+                    "motivation": {
+                        "en": "for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution",
+                        "se": "för utveckling av kryoelektronmikroskopi för högupplösande strukturbestämning av biomolekyler i lösning"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/945",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "946",
+                    "knownName": {
+                        "en": "Richard Henderson"
+                    },
+                    "fullName": {
+                        "en": "Richard Henderson"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "3",
+                    "motivation": {
+                        "en": "for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution",
+                        "se": "för utveckling av kryoelektronmikroskopi för högupplösande strukturbestämning av biomolekyler i lösning"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/946",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "awardYear": "2016",
+            "category": {
+                "en": "Chemistry",
+                "no": "Kjemi",
+                "se": "Kemi"
+            },
+            "categoryFullName": {
+                "en": "The Nobel Prize in Chemistry",
+                "no": "Nobelprisen i kjemi",
+                "se": "Nobelpriset i kemi"
+            },
+            "dateAwarded": "2016-10-05",
+            "prizeAmount": 8000000,
+            "prizeAmountAdjusted": 9403431,
+            "links": [
+                {
+                    "rel": "nobelPrize",
+                    "href": "https://api.nobelprize.org/2/nobelPrize/che/2016",
+                    "action": "GET",
+                    "types": "application/json"
+                }
+            ],
+            "laureates": [
+                {
+                    "id": "931",
+                    "knownName": {
+                        "en": "Jean-Pierre Sauvage"
+                    },
+                    "fullName": {
+                        "en": "Jean-Pierre Sauvage"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "1",
+                    "motivation": {
+                        "en": "for the design and synthesis of molecular machines",
+                        "se": "för design och syntes av molekylära maskiner"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/931",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "932",
+                    "knownName": {
+                        "en": "Sir J. Fraser Stoddart"
+                    },
+                    "fullName": {
+                        "en": "Sir J. Fraser Stoddart"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "2",
+                    "motivation": {
+                        "en": "for the design and synthesis of molecular machines",
+                        "se": "för design och syntes av molekylära maskiner"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/932",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "933",
+                    "knownName": {
+                        "en": "Bernard L. Feringa"
+                    },
+                    "fullName": {
+                        "en": "Bernard L. Feringa"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "3",
+                    "motivation": {
+                        "en": "for the design and synthesis of molecular machines",
+                        "se": "för design och syntes av molekylära maskiner"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/933",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "awardYear": "2015",
+            "category": {
+                "en": "Chemistry",
+                "no": "Kjemi",
+                "se": "Kemi"
+            },
+            "categoryFullName": {
+                "en": "The Nobel Prize in Chemistry",
+                "no": "Nobelprisen i kjemi",
+                "se": "Nobelpriset i kemi"
+            },
+            "dateAwarded": "2015-10-07",
+            "prizeAmount": 8000000,
+            "prizeAmountAdjusted": 9498044,
+            "links": [
+                {
+                    "rel": "nobelPrize",
+                    "href": "https://api.nobelprize.org/2/nobelPrize/che/2015",
+                    "action": "GET",
+                    "types": "application/json"
+                }
+            ],
+            "laureates": [
+                {
+                    "id": "921",
+                    "knownName": {
+                        "en": "Tomas Lindahl"
+                    },
+                    "fullName": {
+                        "en": "Tomas Lindahl"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "1",
+                    "motivation": {
+                        "en": "for mechanistic studies of DNA repair",
+                        "se": "för mekanistiska studier av DNA-reparation"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/921",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "922",
+                    "knownName": {
+                        "en": "Paul Modrich"
+                    },
+                    "fullName": {
+                        "en": "Paul Modrich"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "2",
+                    "motivation": {
+                        "en": "for mechanistic studies of DNA repair",
+                        "se": "för mekanistiska studier av DNA-reparation"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/922",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "923",
+                    "knownName": {
+                        "en": "Aziz Sancar"
+                    },
+                    "fullName": {
+                        "en": "Aziz Sancar"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "3",
+                    "motivation": {
+                        "en": "for mechanistic studies of DNA repair",
+                        "se": "för mekanistiska studier av DNA-reparation"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/923",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "awardYear": "2014",
+            "category": {
+                "en": "Chemistry",
+                "no": "Kjemi",
+                "se": "Kemi"
+            },
+            "categoryFullName": {
+                "en": "The Nobel Prize in Chemistry",
+                "no": "Nobelprisen i kjemi",
+                "se": "Nobelpriset i kemi"
+            },
+            "dateAwarded": "2014-10-08",
+            "prizeAmount": 8000000,
+            "prizeAmountAdjusted": 9492737,
+            "links": [
+                {
+                    "rel": "nobelPrize",
+                    "href": "https://api.nobelprize.org/2/nobelPrize/che/2014",
+                    "action": "GET",
+                    "types": "application/json"
+                }
+            ],
+            "laureates": [
+                {
+                    "id": "909",
+                    "knownName": {
+                        "en": "Eric Betzig"
+                    },
+                    "fullName": {
+                        "en": "Eric Betzig"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "1",
+                    "motivation": {
+                        "en": "for the development of super-resolved fluorescence microscopy",
+                        "se": "för utveckling av superupplöst fluorescensmikroskopi"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/909",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "910",
+                    "knownName": {
+                        "en": "Stefan W. Hell"
+                    },
+                    "fullName": {
+                        "en": "Stefan W. Hell"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "2",
+                    "motivation": {
+                        "en": "for the development of super-resolved fluorescence microscopy",
+                        "se": "för utveckling av superupplöst fluorescensmikroskopi"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/910",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "911",
+                    "knownName": {
+                        "en": "William E. Moerner"
+                    },
+                    "fullName": {
+                        "en": "William E. Moerner"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "3",
+                    "motivation": {
+                        "en": "for the development of super-resolved fluorescence microscopy",
+                        "se": "för utveckling av superupplöst fluorescensmikroskopi"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/911",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "awardYear": "2013",
+            "category": {
+                "en": "Chemistry",
+                "no": "Kjemi",
+                "se": "Kemi"
+            },
+            "categoryFullName": {
+                "en": "The Nobel Prize in Chemistry",
+                "no": "Nobelprisen i kjemi",
+                "se": "Nobelpriset i kemi"
+            },
+            "dateAwarded": "2013-10-09",
+            "prizeAmount": 8000000,
+            "prizeAmountAdjusted": 9476854,
+            "links": [
+                {
+                    "rel": "nobelPrize",
+                    "href": "https://api.nobelprize.org/2/nobelPrize/che/2013",
+                    "action": "GET",
+                    "types": "application/json"
+                }
+            ],
+            "laureates": [
+                {
+                    "id": "889",
+                    "knownName": {
+                        "en": "Martin Karplus"
+                    },
+                    "fullName": {
+                        "en": "Martin Karplus"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "1",
+                    "motivation": {
+                        "en": "for the development of multiscale models for complex chemical systems",
+                        "se": "för utvecklandet av flerskalemodeller för komplexa kemiska system"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/889",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "890",
+                    "knownName": {
+                        "en": "Michael Levitt"
+                    },
+                    "fullName": {
+                        "en": "Michael Levitt"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "2",
+                    "motivation": {
+                        "en": "for the development of multiscale models for complex chemical systems",
+                        "se": "för utvecklandet av flerskalemodeller för komplexa kemiska system"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/890",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "891",
+                    "knownName": {
+                        "en": "Arieh Warshel"
+                    },
+                    "fullName": {
+                        "en": "Arieh Warshel"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "3",
+                    "motivation": {
+                        "en": "for the development of multiscale models for complex chemical systems",
+                        "se": "för utvecklandet av flerskalemodeller för komplexa kemiska system"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/891",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "awardYear": "2012",
+            "category": {
+                "en": "Chemistry",
+                "no": "Kjemi",
+                "se": "Kemi"
+            },
+            "categoryFullName": {
+                "en": "The Nobel Prize in Chemistry",
+                "no": "Nobelprisen i kjemi",
+                "se": "Nobelpriset i kemi"
+            },
+            "dateAwarded": "2012-10-10",
+            "prizeAmount": 8000000,
+            "prizeAmountAdjusted": 9471572,
+            "links": [
+                {
+                    "rel": "nobelPrize",
+                    "href": "https://api.nobelprize.org/2/nobelPrize/che/2012",
+                    "action": "GET",
+                    "types": "application/json"
+                }
+            ],
+            "laureates": [
+                {
+                    "id": "878",
+                    "knownName": {
+                        "en": "Robert J. Lefkowitz"
+                    },
+                    "fullName": {
+                        "en": "Robert J. Lefkowitz"
+                    },
+                    "portion": "1/2",
+                    "sortOrder": "1",
+                    "motivation": {
+                        "en": "for studies of G-protein-coupled receptors",
+                        "se": "”för studier av G-proteinkopplade receptorer”"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/878",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "879",
+                    "knownName": {
+                        "en": "Brian Kobilka"
+                    },
+                    "fullName": {
+                        "en": "Brian K. Kobilka"
+                    },
+                    "portion": "1/2",
+                    "sortOrder": "2",
+                    "motivation": {
+                        "en": "for studies of G-protein-coupled receptors",
+                        "se": "”för studier av G-proteinkopplade receptorer”"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/879",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "awardYear": "2011",
+            "category": {
+                "en": "Chemistry",
+                "no": "Kjemi",
+                "se": "Kemi"
+            },
+            "categoryFullName": {
+                "en": "The Nobel Prize in Chemistry",
+                "no": "Nobelprisen i kjemi",
+                "se": "Nobelpriset i kemi"
+            },
+            "dateAwarded": "2011-10-05",
+            "prizeAmount": 10000000,
+            "prizeAmountAdjusted": 11946007,
+            "links": [
+                {
+                    "rel": "nobelPrize",
+                    "href": "https://api.nobelprize.org/2/nobelPrize/che/2011",
+                    "action": "GET",
+                    "types": "application/json"
+                }
+            ],
+            "laureates": [
+                {
+                    "id": "867",
+                    "knownName": {
+                        "en": "Dan Shechtman"
+                    },
+                    "fullName": {
+                        "en": "Dan Shechtman"
+                    },
+                    "portion": "1",
+                    "sortOrder": "1",
+                    "motivation": {
+                        "en": "for the discovery of quasicrystals",
+                        "se": "för upptäckten av kvasikristaller"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/867",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "awardYear": "2010",
+            "category": {
+                "en": "Chemistry",
+                "no": "Kjemi",
+                "se": "Kemi"
+            },
+            "categoryFullName": {
+                "en": "The Nobel Prize in Chemistry",
+                "no": "Nobelprisen i kjemi",
+                "se": "Nobelpriset i kemi"
+            },
+            "dateAwarded": "2010-10-06",
+            "prizeAmount": 10000000,
+            "prizeAmountAdjusted": 12256203,
+            "links": [
+                {
+                    "rel": "nobelPrize",
+                    "href": "https://api.nobelprize.org/2/nobelPrize/che/2010",
+                    "action": "GET",
+                    "types": "application/json"
+                }
+            ],
+            "laureates": [
+                {
+                    "id": "851",
+                    "knownName": {
+                        "en": "Richard F. Heck"
+                    },
+                    "fullName": {
+                        "en": "Richard F. Heck"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "1",
+                    "motivation": {
+                        "en": "for palladium-catalyzed cross couplings in organic synthesis",
+                        "se": "för palladiumkatalyserade korskopplingar i organisk syntes"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/851",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "852",
+                    "knownName": {
+                        "en": "Ei-ichi Negishi"
+                    },
+                    "fullName": {
+                        "en": "Ei-ichi Negishi"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "2",
+                    "motivation": {
+                        "en": "for palladium-catalyzed cross couplings in organic synthesis",
+                        "se": "för palladiumkatalyserade korskopplingar i organisk syntes"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/852",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "853",
+                    "knownName": {
+                        "en": "Akira Suzuki"
+                    },
+                    "fullName": {
+                        "en": "Akira Suzuki"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "3",
+                    "motivation": {
+                        "en": "for palladium-catalyzed cross couplings in organic synthesis",
+                        "se": "för palladiumkatalyserade korskopplingar i organisk syntes"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/853",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "awardYear": "2009",
+            "category": {
+                "en": "Chemistry",
+                "no": "Kjemi",
+                "se": "Kemi"
+            },
+            "categoryFullName": {
+                "en": "The Nobel Prize in Chemistry",
+                "no": "Nobelprisen i kjemi",
+                "se": "Nobelpriset i kemi"
+            },
+            "dateAwarded": "2009-10-07",
+            "prizeAmount": 10000000,
+            "prizeAmountAdjusted": 12413793,
+            "links": [
+                {
+                    "rel": "nobelPrize",
+                    "href": "https://api.nobelprize.org/2/nobelPrize/che/2009",
+                    "action": "GET",
+                    "types": "application/json"
+                }
+            ],
+            "laureates": [
+                {
+                    "id": "841",
+                    "knownName": {
+                        "en": "Venkatraman Ramakrishnan"
+                    },
+                    "fullName": {
+                        "en": "Venkatraman Ramakrishnan"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "1",
+                    "motivation": {
+                        "en": "for studies of the structure and function of the ribosome",
+                        "se": "för studier av ribosomens struktur och funktion"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/841",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "842",
+                    "knownName": {
+                        "en": "Thomas A. Steitz"
+                    },
+                    "fullName": {
+                        "en": "Thomas A. Steitz"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "2",
+                    "motivation": {
+                        "en": "for studies of the structure and function of the ribosome",
+                        "se": "för studier av ribosomens struktur och funktion"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/842",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "843",
+                    "knownName": {
+                        "en": "Ada E. Yonath"
+                    },
+                    "fullName": {
+                        "en": "Ada E. Yonath"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "3",
+                    "motivation": {
+                        "en": "for studies of the structure and function of the ribosome",
+                        "se": "för studier av ribosomens struktur och funktion"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/843",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "awardYear": "2008",
+            "category": {
+                "en": "Chemistry",
+                "no": "Kjemi",
+                "se": "Kemi"
+            },
+            "categoryFullName": {
+                "en": "The Nobel Prize in Chemistry",
+                "no": "Nobelprisen i kjemi",
+                "se": "Nobelpriset i kemi"
+            },
+            "dateAwarded": "2008-10-08",
+            "prizeAmount": 10000000,
+            "prizeAmountAdjusted": 12377622,
+            "links": [
+                {
+                    "rel": "nobelPrize",
+                    "href": "https://api.nobelprize.org/2/nobelPrize/che/2008",
+                    "action": "GET",
+                    "types": "application/json"
+                }
+            ],
+            "laureates": [
+                {
+                    "id": "829",
+                    "knownName": {
+                        "en": "Osamu Shimomura"
+                    },
+                    "fullName": {
+                        "en": "Osamu Shimomura"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "1",
+                    "motivation": {
+                        "en": "for the discovery and development of the green fluorescent protein, GFP",
+                        "se": "för upptäckt och utveckling av det grönt fluorescerande proteinet, GFP"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/829",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "830",
+                    "knownName": {
+                        "en": "Martin Chalfie"
+                    },
+                    "fullName": {
+                        "en": "Martin Chalfie"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "2",
+                    "motivation": {
+                        "en": "for the discovery and development of the green fluorescent protein, GFP",
+                        "se": "för upptäckt och utveckling av det grönt fluorescerande proteinet, GFP"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/830",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "831",
+                    "knownName": {
+                        "en": "Roger Y. Tsien"
+                    },
+                    "fullName": {
+                        "en": "Roger Y. Tsien"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "3",
+                    "motivation": {
+                        "en": "for the discovery and development of the green fluorescent protein, GFP",
+                        "se": "för upptäckt och utveckling av det grönt fluorescerande proteinet, GFP"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/831",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "awardYear": "2007",
+            "category": {
+                "en": "Chemistry",
+                "no": "Kjemi",
+                "se": "Kemi"
+            },
+            "categoryFullName": {
+                "en": "The Nobel Prize in Chemistry",
+                "no": "Nobelprisen i kjemi",
+                "se": "Nobelpriset i kemi"
+            },
+            "dateAwarded": "2007-10-10",
+            "prizeAmount": 10000000,
+            "prizeAmountAdjusted": 12802893,
+            "links": [
+                {
+                    "rel": "nobelPrize",
+                    "href": "https://api.nobelprize.org/2/nobelPrize/che/2007",
+                    "action": "GET",
+                    "types": "application/json"
+                }
+            ],
+            "laureates": [
+                {
+                    "id": "816",
+                    "knownName": {
+                        "en": "Gerhard Ertl"
+                    },
+                    "fullName": {
+                        "en": "Gerhard Ertl"
+                    },
+                    "portion": "1",
+                    "sortOrder": "1",
+                    "motivation": {
+                        "en": "for his studies of chemical processes on solid surfaces",
+                        "se": "för hans studier av kemiska processer på fasta ytor"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/816",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "awardYear": "2006",
+            "category": {
+                "en": "Chemistry",
+                "no": "Kjemi",
+                "se": "Kemi"
+            },
+            "categoryFullName": {
+                "en": "The Nobel Prize in Chemistry",
+                "no": "Nobelprisen i kjemi",
+                "se": "Nobelpriset i kemi"
+            },
+            "dateAwarded": "2006-10-04",
+            "prizeAmount": 10000000,
+            "prizeAmountAdjusted": 13086876,
+            "links": [
+                {
+                    "rel": "nobelPrize",
+                    "href": "https://api.nobelprize.org/2/nobelPrize/che/2006",
+                    "action": "GET",
+                    "types": "application/json"
+                }
+            ],
+            "laureates": [
+                {
+                    "id": "806",
+                    "knownName": {
+                        "en": "Roger D. Kornberg"
+                    },
+                    "fullName": {
+                        "en": "Roger D. Kornberg"
+                    },
+                    "portion": "1",
+                    "sortOrder": "1",
+                    "motivation": {
+                        "en": "for his studies of the molecular basis of eukaryotic transcription",
+                        "se": "för hans studier av den molekylära grunden för eukaryot transkription"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/806",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "awardYear": "2005",
+            "category": {
+                "en": "Chemistry",
+                "no": "Kjemi",
+                "se": "Kemi"
+            },
+            "categoryFullName": {
+                "en": "The Nobel Prize in Chemistry",
+                "no": "Nobelprisen i kjemi",
+                "se": "Nobelpriset i kemi"
+            },
+            "dateAwarded": "2005-10-05",
+            "prizeAmount": 10000000,
+            "prizeAmountAdjusted": 13266708,
+            "links": [
+                {
+                    "rel": "nobelPrize",
+                    "href": "https://api.nobelprize.org/2/nobelPrize/che/2005",
+                    "action": "GET",
+                    "types": "application/json"
+                }
+            ],
+            "laureates": [
+                {
+                    "id": "794",
+                    "knownName": {
+                        "en": "Yves Chauvin"
+                    },
+                    "fullName": {
+                        "en": "Yves Chauvin"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "1",
+                    "motivation": {
+                        "en": "for the development of the metathesis method in organic synthesis",
+                        "se": "för utveckling av metates-metoden inom organisk syntes"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/794",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "795",
+                    "knownName": {
+                        "en": "Robert H. Grubbs"
+                    },
+                    "fullName": {
+                        "en": "Robert H. Grubbs"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "2",
+                    "motivation": {
+                        "en": "for the development of the metathesis method in organic synthesis",
+                        "se": "för utveckling av metates-metoden inom organisk syntes"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/795",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "796",
+                    "knownName": {
+                        "en": "Richard R. Schrock"
+                    },
+                    "fullName": {
+                        "en": "Richard R. Schrock"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "3",
+                    "motivation": {
+                        "en": "for the development of the metathesis method in organic synthesis",
+                        "se": "för utveckling av metates-metoden inom organisk syntes"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/796",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "awardYear": "2004",
+            "category": {
+                "en": "Chemistry",
+                "no": "Kjemi",
+                "se": "Kemi"
+            },
+            "categoryFullName": {
+                "en": "The Nobel Prize in Chemistry",
+                "no": "Nobelprisen i kjemi",
+                "se": "Nobelpriset i kemi"
+            },
+            "dateAwarded": "2004-10-06",
+            "prizeAmount": 10000000,
+            "prizeAmountAdjusted": 13324969,
+            "links": [
+                {
+                    "rel": "nobelPrize",
+                    "href": "https://api.nobelprize.org/2/nobelPrize/che/2004",
+                    "action": "GET",
+                    "types": "application/json"
+                }
+            ],
+            "laureates": [
+                {
+                    "id": "779",
+                    "knownName": {
+                        "en": "Aaron Ciechanover"
+                    },
+                    "fullName": {
+                        "en": "Aaron Ciechanover"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "1",
+                    "motivation": {
+                        "en": "for the discovery of ubiquitin-mediated protein degradation",
+                        "se": "för upptäckten av ubiquitinmedierad proteinnedbrytning"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/779",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "780",
+                    "knownName": {
+                        "en": "Avram Hershko"
+                    },
+                    "fullName": {
+                        "en": "Avram Hershko"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "2",
+                    "motivation": {
+                        "en": "for the discovery of ubiquitin-mediated protein degradation",
+                        "se": "för upptäckten av ubiquitinmedierad proteinnedbrytning"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/780",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "781",
+                    "knownName": {
+                        "en": "Irwin Rose"
+                    },
+                    "fullName": {
+                        "en": "Irwin Rose"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "3",
+                    "motivation": {
+                        "en": "for the discovery of ubiquitin-mediated protein degradation",
+                        "se": "för upptäckten av ubiquitinmedierad proteinnedbrytning"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/781",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "awardYear": "2003",
+            "category": {
+                "en": "Chemistry",
+                "no": "Kjemi",
+                "se": "Kemi"
+            },
+            "categoryFullName": {
+                "en": "The Nobel Prize in Chemistry",
+                "no": "Nobelprisen i kjemi",
+                "se": "Nobelpriset i kemi"
+            },
+            "dateAwarded": "2003-10-08",
+            "topMotivation": {
+                "en": "for discoveries concerning channels in cell membranes"
+            },
+            "prizeAmount": 10000000,
+            "prizeAmountAdjusted": 13375315,
+            "links": [
+                {
+                    "rel": "nobelPrize",
+                    "href": "https://api.nobelprize.org/2/nobelPrize/che/2003",
+                    "action": "GET",
+                    "types": "application/json"
+                }
+            ],
+            "laureates": [
+                {
+                    "id": "769",
+                    "knownName": {
+                        "en": "Peter Agre"
+                    },
+                    "fullName": {
+                        "en": "Peter Agre"
+                    },
+                    "portion": "1/2",
+                    "sortOrder": "1",
+                    "motivation": {
+                        "en": "for the discovery of water channels",
+                        "se": "för upptäckten av vattenkanaler"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/769",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "770",
+                    "knownName": {
+                        "en": "Roderick MacKinnon"
+                    },
+                    "fullName": {
+                        "en": "Roderick MacKinnon"
+                    },
+                    "portion": "1/2",
+                    "sortOrder": "2",
+                    "motivation": {
+                        "en": "for structural and mechanistic studies of ion channels",
+                        "se": "för strukturella och mekanistiska studier av jonkanaler"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/770",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "awardYear": "2002",
+            "category": {
+                "en": "Chemistry",
+                "no": "Kjemi",
+                "se": "Kemi"
+            },
+            "categoryFullName": {
+                "en": "The Nobel Prize in Chemistry",
+                "no": "Nobelprisen i kjemi",
+                "se": "Nobelpriset i kemi"
+            },
+            "dateAwarded": "2002-10-09",
+            "topMotivation": {
+                "en": "for the development of methods for identification and structure analyses of biological macromolecules"
+            },
+            "prizeAmount": 10000000,
+            "prizeAmountAdjusted": 13632863,
+            "links": [
+                {
+                    "rel": "nobelPrize",
+                    "href": "https://api.nobelprize.org/2/nobelPrize/che/2002",
+                    "action": "GET",
+                    "types": "application/json"
+                }
+            ],
+            "laureates": [
+                {
+                    "id": "756",
+                    "knownName": {
+                        "en": "John B. Fenn"
+                    },
+                    "fullName": {
+                        "en": "John B. Fenn"
+                    },
+                    "portion": "1/4",
+                    "sortOrder": "1",
+                    "motivation": {
+                        "en": "for their development of soft desorption ionisation methods for mass spectrometric analyses of biological macromolecules",
+                        "se": "för deras utveckling av mjuka desorptionsjonisationsmetoder för masspektrometrisk analys av biologiska makromolekyler"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/756",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "757",
+                    "knownName": {
+                        "en": "Koichi Tanaka"
+                    },
+                    "fullName": {
+                        "en": "Koichi Tanaka"
+                    },
+                    "portion": "1/4",
+                    "sortOrder": "2",
+                    "motivation": {
+                        "en": "for their development of soft desorption ionisation methods for mass spectrometric analyses of biological macromolecules",
+                        "se": "för deras utveckling av mjuka desorptionsjonisationsmetoder för masspektrometrisk analys av biologiska makromolekyler"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/757",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "758",
+                    "knownName": {
+                        "en": "Kurt Wüthrich"
+                    },
+                    "fullName": {
+                        "en": "Kurt Wüthrich"
+                    },
+                    "portion": "1/2",
+                    "sortOrder": "3",
+                    "motivation": {
+                        "en": "for his development of nuclear magnetic resonance spectroscopy for determining the three-dimensional structure of biological macromolecules in solution",
+                        "se": "för hans utveckling av kärnmagnetisk resonansspektroskopi för bestämning av biologiska makromolekylers tredimensionella struktur i lösning"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/758",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "awardYear": "2001",
+            "category": {
+                "en": "Chemistry",
+                "no": "Kjemi",
+                "se": "Kemi"
+            },
+            "categoryFullName": {
+                "en": "The Nobel Prize in Chemistry",
+                "no": "Nobelprisen i kjemi",
+                "se": "Nobelpriset i kemi"
+            },
+            "dateAwarded": "2001-10-10",
+            "prizeAmount": 10000000,
+            "prizeAmountAdjusted": 13927869,
+            "links": [
+                {
+                    "rel": "nobelPrize",
+                    "href": "https://api.nobelprize.org/2/nobelPrize/che/2001",
+                    "action": "GET",
+                    "types": "application/json"
+                }
+            ],
+            "laureates": [
+                {
+                    "id": "741",
+                    "knownName": {
+                        "en": "William Knowles"
+                    },
+                    "fullName": {
+                        "en": "William S. Knowles"
+                    },
+                    "portion": "1/4",
+                    "sortOrder": "1",
+                    "motivation": {
+                        "en": "for their work on chirally catalysed hydrogenation reactions",
+                        "se": "för deras arbeten över kiralt katalyserade hydrogeneringssreaktioner"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/741",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "742",
+                    "knownName": {
+                        "en": "Ryoji Noyori"
+                    },
+                    "fullName": {
+                        "en": "Ryoji Noyori"
+                    },
+                    "portion": "1/4",
+                    "sortOrder": "2",
+                    "motivation": {
+                        "en": "for their work on chirally catalysed hydrogenation reactions",
+                        "se": "för deras arbeten över kiralt katalyserade hydrogeneringssreaktioner"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/742",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "743",
+                    "knownName": {
+                        "en": "K. Barry Sharpless"
+                    },
+                    "fullName": {
+                        "en": "K. Barry Sharpless"
+                    },
+                    "portion": "1/2",
+                    "sortOrder": "3",
+                    "motivation": {
+                        "en": "for his work on chirally catalysed oxidation reactions",
+                        "se": "för hans arbeten över kiralt katalyserade oxidationsreaktioner"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/743",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "awardYear": "2000",
+            "category": {
+                "en": "Chemistry",
+                "no": "Kjemi",
+                "se": "Kemi"
+            },
+            "categoryFullName": {
+                "en": "The Nobel Prize in Chemistry",
+                "no": "Nobelprisen i kjemi",
+                "se": "Nobelpriset i kemi"
+            },
+            "dateAwarded": "2000-10-10",
+            "prizeAmount": 9000000,
+            "prizeAmountAdjusted": 12838146,
+            "links": [
+                {
+                    "rel": "nobelPrize",
+                    "href": "https://api.nobelprize.org/2/nobelPrize/che/2000",
+                    "action": "GET",
+                    "types": "application/json"
+                }
+            ],
+            "laureates": [
+                {
+                    "id": "729",
+                    "knownName": {
+                        "en": "Alan Heeger"
+                    },
+                    "fullName": {
+                        "en": "Alan J. Heeger"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "1",
+                    "motivation": {
+                        "en": "for the discovery and development of conductive polymers",
+                        "se": "för upptäckten och utvecklandet av ledande polymerer"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/729",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "730",
+                    "knownName": {
+                        "en": "Alan MacDiarmid"
+                    },
+                    "fullName": {
+                        "en": "Alan G. MacDiarmid"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "2",
+                    "motivation": {
+                        "en": "for the discovery and development of conductive polymers",
+                        "se": "för upptäckten och utvecklandet av ledande polymerer"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/730",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                },
+                {
+                    "id": "731",
+                    "knownName": {
+                        "en": "Hideki Shirakawa"
+                    },
+                    "fullName": {
+                        "en": "Hideki Shirakawa"
+                    },
+                    "portion": "1/3",
+                    "sortOrder": "3",
+                    "motivation": {
+                        "en": "for the discovery and development of conductive polymers",
+                        "se": "för upptäckten och utvecklandet av ledande polymerer"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/731",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "awardYear": "1999",
+            "category": {
+                "en": "Chemistry",
+                "no": "Kjemi",
+                "se": "Kemi"
+            },
+            "categoryFullName": {
+                "en": "The Nobel Prize in Chemistry",
+                "no": "Nobelprisen i kjemi",
+                "se": "Nobelpriset i kemi"
+            },
+            "dateAwarded": "1999-10-12",
+            "prizeAmount": 7900000,
+            "prizeAmountAdjusted": 11383718,
+            "links": [
+                {
+                    "rel": "nobelPrize",
+                    "href": "https://api.nobelprize.org/2/nobelPrize/che/1999",
+                    "action": "GET",
+                    "types": "application/json"
+                }
+            ],
+            "laureates": [
+                {
+                    "id": "292",
+                    "knownName": {
+                        "en": "Ahmed Zewail"
+                    },
+                    "fullName": {
+                        "en": "Ahmed H. Zewail"
+                    },
+                    "portion": "1",
+                    "sortOrder": "1",
+                    "motivation": {
+                        "en": "for his studies of the transition states of chemical reactions using femtosecond spectroscopy",
+                        "se": "för hans studier av kemiska reaktioners övergångstillstånd med femtosekundspektroskopi"
+                    },
+                    "links": [
+                        {
+                            "rel": "laureate",
+                            "href": "https://api.nobelprize.org/2/laureate/292",
+                            "action": "GET",
+                            "types": "application/json"
+                        }
+                    ]
+                }
+            ]
         }
-      ]
+    ],
+    "meta": {
+        "offset": 0,
+        "limit": 25,
+        "nobelPrizeCategory": "che",
+        "count": 123,
+        "terms": "https://www.nobelprize.org/about/terms-of-use-for-api-nobelprize-org-and-data-nobelprize-org/",
+        "license": "https://www.nobelprize.org/about/terms-of-use-for-api-nobelprize-org-and-data-nobelprize-org/#licence",
+        "disclaimer": "https://www.nobelprize.org/about/terms-of-use-for-api-nobelprize-org-and-data-nobelprize-org/#disclaimer"
     },
-    {
-      "awardYear": "2021",
-      "category": { "en": "Chemistry", "no": "Kjemi", "se": "Kemi" },
-      "categoryFullName": {
-        "en": "The Nobel Prize in Chemistry",
-        "no": "Nobelprisen i kjemi",
-        "se": "Nobelpriset i kemi"
-      },
-      "dateAwarded": "2021-10-06",
-      "prizeAmount": 10000000,
-      "prizeAmountAdjusted": 10000000,
-      "links": [
-        {
-          "rel": "nobelPrize",
-          "href": "https://api.nobelprize.org/2/nobelPrize/che/2021",
-          "action": "GET",
-          "types": "application/json"
-        }
-      ],
-      "laureates": [
-        {
-          "id": "1002",
-          "knownName": { "en": "Benjamin List" },
-          "fullName": { "en": "Benjamin List" },
-          "portion": "1/2",
-          "sortOrder": "1",
-          "motivation": {
-            "en": "for the development of asymmetric organocatalysis"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/1002",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "1003",
-          "knownName": { "en": "David W.C. MacMillan" },
-          "fullName": { "en": "David W.C. MacMillan" },
-          "portion": "1/2",
-          "sortOrder": "2",
-          "motivation": {
-            "en": "for the development of asymmetric organocatalysis"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/1003",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "awardYear": "2020",
-      "category": { "en": "Chemistry", "no": "Kjemi", "se": "Kemi" },
-      "categoryFullName": {
-        "en": "The Nobel Prize in Chemistry",
-        "no": "Nobelprisen i kjemi",
-        "se": "Nobelpriset i kemi"
-      },
-      "dateAwarded": "2020-10-07",
-      "prizeAmount": 10000000,
-      "prizeAmountAdjusted": 10000000,
-      "links": [
-        {
-          "rel": "nobelPrize",
-          "href": "https://api.nobelprize.org/2/nobelPrize/che/2020",
-          "action": "GET",
-          "types": "application/json"
-        }
-      ],
-      "laureates": [
-        {
-          "id": "991",
-          "knownName": { "en": "Emmanuelle Charpentier" },
-          "fullName": { "en": "Emmanuelle Charpentier" },
-          "portion": "1/2",
-          "sortOrder": "1",
-          "motivation": {
-            "en": "for the development of a method for genome editing",
-            "se": "för utveckling av en metod för genomeditering"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/991",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "992",
-          "knownName": { "en": "Jennifer A. Doudna" },
-          "fullName": { "en": "Jennifer A. Doudna" },
-          "portion": "1/2",
-          "sortOrder": "2",
-          "motivation": {
-            "en": "for the development of a method for genome editing",
-            "se": "för utveckling av en metod för genomeditering"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/992",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "awardYear": "2019",
-      "category": { "en": "Chemistry", "no": "Kjemi", "se": "Kemi" },
-      "categoryFullName": {
-        "en": "The Nobel Prize in Chemistry",
-        "no": "Nobelprisen i kjemi",
-        "se": "Nobelpriset i kemi"
-      },
-      "dateAwarded": "2019-10-09",
-      "prizeAmount": 9000000,
-      "prizeAmountAdjusted": 9000000,
-      "links": [
-        {
-          "rel": "nobelPrize",
-          "href": "https://api.nobelprize.org/2/nobelPrize/che/2019",
-          "action": "GET",
-          "types": "application/json"
-        }
-      ],
-      "laureates": [
-        {
-          "id": "976",
-          "knownName": { "en": "John B. Goodenough" },
-          "fullName": { "en": "John B. Goodenough" },
-          "portion": "1/3",
-          "sortOrder": "1",
-          "motivation": {
-            "en": "for the development of lithium-ion batteries",
-            "se": "för utveckling av litiumjonbatterier"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/976",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "977",
-          "knownName": { "en": "M. Stanley Whittingham" },
-          "fullName": { "en": "M. Stanley Whittingham" },
-          "portion": "1/3",
-          "sortOrder": "2",
-          "motivation": {
-            "en": "for the development of lithium-ion batteries",
-            "se": "för utveckling av litiumjonbatterier"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/977",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "978",
-          "knownName": { "en": "Akira Yoshino" },
-          "fullName": { "en": "Akira Yoshino" },
-          "portion": "1/3",
-          "sortOrder": "3",
-          "motivation": {
-            "en": "for the development of lithium-ion batteries",
-            "se": "för utveckling av litiumjonbatterier"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/978",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "awardYear": "2018",
-      "category": { "en": "Chemistry", "no": "Kjemi", "se": "Kemi" },
-      "categoryFullName": {
-        "en": "The Nobel Prize in Chemistry",
-        "no": "Nobelprisen i kjemi",
-        "se": "Nobelpriset i kemi"
-      },
-      "dateAwarded": "2018-10-03",
-      "prizeAmount": 9000000,
-      "prizeAmountAdjusted": 9163200,
-      "links": [
-        {
-          "rel": "nobelPrize",
-          "href": "https://api.nobelprize.org/2/nobelPrize/che/2018",
-          "action": "GET",
-          "types": "application/json"
-        }
-      ],
-      "laureates": [
-        {
-          "id": "963",
-          "knownName": { "en": "Frances H. Arnold" },
-          "fullName": { "en": "Frances H. Arnold" },
-          "portion": "1/2",
-          "sortOrder": "1",
-          "motivation": {
-            "en": "for the directed evolution of enzymes",
-            "se": "för riktad evolution av enzymer"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/963",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "964",
-          "knownName": { "en": "George P. Smith" },
-          "fullName": { "en": "George P. Smith" },
-          "portion": "1/4",
-          "sortOrder": "2",
-          "motivation": {
-            "en": "for the phage display of peptides and antibodies",
-            "se": "för fagdisplay av peptider och antikroppar"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/964",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "965",
-          "knownName": { "en": "Sir Gregory P. Winter" },
-          "fullName": { "en": "Sir Gregory P. Winter" },
-          "portion": "1/4",
-          "sortOrder": "3",
-          "motivation": {
-            "en": "for the phage display of peptides and antibodies",
-            "se": "för fagdisplay av peptider och antikroppar"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/965",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "awardYear": "2017",
-      "category": { "en": "Chemistry", "no": "Kjemi", "se": "Kemi" },
-      "categoryFullName": {
-        "en": "The Nobel Prize in Chemistry",
-        "no": "Nobelprisen i kjemi",
-        "se": "Nobelpriset i kemi"
-      },
-      "dateAwarded": "2017-10-04",
-      "prizeAmount": 9000000,
-      "prizeAmountAdjusted": 9342577,
-      "links": [
-        {
-          "rel": "nobelPrize",
-          "href": "https://api.nobelprize.org/2/nobelPrize/che/2017",
-          "action": "GET",
-          "types": "application/json"
-        }
-      ],
-      "laureates": [
-        {
-          "id": "944",
-          "knownName": { "en": "Jacques Dubochet" },
-          "fullName": { "en": "Jacques Dubochet" },
-          "portion": "1/3",
-          "sortOrder": "1",
-          "motivation": {
-            "en": "for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution",
-            "se": "för utveckling av kryoelektronmikroskopi för högupplösande strukturbestämning av biomolekyler i lösning"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/944",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "945",
-          "knownName": { "en": "Joachim Frank" },
-          "fullName": { "en": "Joachim Frank" },
-          "portion": "1/3",
-          "sortOrder": "2",
-          "motivation": {
-            "en": "for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution",
-            "se": "för utveckling av kryoelektronmikroskopi för högupplösande strukturbestämning av biomolekyler i lösning"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/945",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "946",
-          "knownName": { "en": "Richard Henderson" },
-          "fullName": { "en": "Richard Henderson" },
-          "portion": "1/3",
-          "sortOrder": "3",
-          "motivation": {
-            "en": "for developing cryo-electron microscopy for the high-resolution structure determination of biomolecules in solution",
-            "se": "för utveckling av kryoelektronmikroskopi för högupplösande strukturbestämning av biomolekyler i lösning"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/946",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "awardYear": "2016",
-      "category": { "en": "Chemistry", "no": "Kjemi", "se": "Kemi" },
-      "categoryFullName": {
-        "en": "The Nobel Prize in Chemistry",
-        "no": "Nobelprisen i kjemi",
-        "se": "Nobelpriset i kemi"
-      },
-      "dateAwarded": "2016-10-05",
-      "prizeAmount": 8000000,
-      "prizeAmountAdjusted": 8451577,
-      "links": [
-        {
-          "rel": "nobelPrize",
-          "href": "https://api.nobelprize.org/2/nobelPrize/che/2016",
-          "action": "GET",
-          "types": "application/json"
-        }
-      ],
-      "laureates": [
-        {
-          "id": "931",
-          "knownName": { "en": "Jean-Pierre Sauvage" },
-          "fullName": { "en": "Jean-Pierre Sauvage" },
-          "portion": "1/3",
-          "sortOrder": "1",
-          "motivation": {
-            "en": "for the design and synthesis of molecular machines",
-            "se": "för design och syntes av molekylära maskiner"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/931",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "932",
-          "knownName": { "en": "Sir J. Fraser Stoddart" },
-          "fullName": { "en": "Sir J. Fraser Stoddart" },
-          "portion": "1/3",
-          "sortOrder": "2",
-          "motivation": {
-            "en": "for the design and synthesis of molecular machines",
-            "se": "för design och syntes av molekylära maskiner"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/932",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "933",
-          "knownName": { "en": "Bernard L. Feringa" },
-          "fullName": { "en": "Bernard L. Feringa" },
-          "portion": "1/3",
-          "sortOrder": "3",
-          "motivation": {
-            "en": "for the design and synthesis of molecular machines",
-            "se": "för design och syntes av molekylära maskiner"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/933",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "awardYear": "2015",
-      "category": { "en": "Chemistry", "no": "Kjemi", "se": "Kemi" },
-      "categoryFullName": {
-        "en": "The Nobel Prize in Chemistry",
-        "no": "Nobelprisen i kjemi",
-        "se": "Nobelpriset i kemi"
-      },
-      "dateAwarded": "2015-10-07",
-      "prizeAmount": 8000000,
-      "prizeAmountAdjusted": 8536613,
-      "links": [
-        {
-          "rel": "nobelPrize",
-          "href": "https://api.nobelprize.org/2/nobelPrize/che/2015",
-          "action": "GET",
-          "types": "application/json"
-        }
-      ],
-      "laureates": [
-        {
-          "id": "921",
-          "knownName": { "en": "Tomas Lindahl" },
-          "fullName": { "en": "Tomas Lindahl" },
-          "portion": "1/3",
-          "sortOrder": "1",
-          "motivation": {
-            "en": "for mechanistic studies of DNA repair",
-            "se": "för mekanistiska studier av DNA-reparation"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/921",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "922",
-          "knownName": { "en": "Paul Modrich" },
-          "fullName": { "en": "Paul Modrich" },
-          "portion": "1/3",
-          "sortOrder": "2",
-          "motivation": {
-            "en": "for mechanistic studies of DNA repair",
-            "se": "för mekanistiska studier av DNA-reparation"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/922",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "923",
-          "knownName": { "en": "Aziz Sancar" },
-          "fullName": { "en": "Aziz Sancar" },
-          "portion": "1/3",
-          "sortOrder": "3",
-          "motivation": {
-            "en": "for mechanistic studies of DNA repair",
-            "se": "för mekanistiska studier av DNA-reparation"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/923",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "awardYear": "2014",
-      "category": { "en": "Chemistry", "no": "Kjemi", "se": "Kemi" },
-      "categoryFullName": {
-        "en": "The Nobel Prize in Chemistry",
-        "no": "Nobelprisen i kjemi",
-        "se": "Nobelpriset i kemi"
-      },
-      "dateAwarded": "2014-10-08",
-      "prizeAmount": 8000000,
-      "prizeAmountAdjusted": 8531844,
-      "links": [
-        {
-          "rel": "nobelPrize",
-          "href": "https://api.nobelprize.org/2/nobelPrize/che/2014",
-          "action": "GET",
-          "types": "application/json"
-        }
-      ],
-      "laureates": [
-        {
-          "id": "909",
-          "knownName": { "en": "Eric Betzig" },
-          "fullName": { "en": "Eric Betzig" },
-          "portion": "1/3",
-          "sortOrder": "1",
-          "motivation": {
-            "en": "for the development of super-resolved fluorescence microscopy",
-            "se": "för utveckling av superupplöst fluorescensmikroskopi"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/909",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "910",
-          "knownName": { "en": "Stefan W. Hell" },
-          "fullName": { "en": "Stefan W. Hell" },
-          "portion": "1/3",
-          "sortOrder": "2",
-          "motivation": {
-            "en": "for the development of super-resolved fluorescence microscopy",
-            "se": "för utveckling av superupplöst fluorescensmikroskopi"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/910",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "911",
-          "knownName": { "en": "William E. Moerner" },
-          "fullName": { "en": "William E. Moerner" },
-          "portion": "1/3",
-          "sortOrder": "3",
-          "motivation": {
-            "en": "for the development of super-resolved fluorescence microscopy",
-            "se": "för utveckling av superupplöst fluorescensmikroskopi"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/911",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "awardYear": "2013",
-      "category": { "en": "Chemistry", "no": "Kjemi", "se": "Kemi" },
-      "categoryFullName": {
-        "en": "The Nobel Prize in Chemistry",
-        "no": "Nobelprisen i kjemi",
-        "se": "Nobelpriset i kemi"
-      },
-      "dateAwarded": "2013-10-09",
-      "prizeAmount": 8000000,
-      "prizeAmountAdjusted": 8517568,
-      "links": [
-        {
-          "rel": "nobelPrize",
-          "href": "https://api.nobelprize.org/2/nobelPrize/che/2013",
-          "action": "GET",
-          "types": "application/json"
-        }
-      ],
-      "laureates": [
-        {
-          "id": "889",
-          "knownName": { "en": "Martin Karplus" },
-          "fullName": { "en": "Martin Karplus" },
-          "portion": "1/3",
-          "sortOrder": "1",
-          "motivation": {
-            "en": "for the development of multiscale models for complex chemical systems",
-            "se": "för utvecklandet av flerskalemodeller för komplexa kemiska system"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/889",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "890",
-          "knownName": { "en": "Michael Levitt" },
-          "fullName": { "en": "Michael Levitt" },
-          "portion": "1/3",
-          "sortOrder": "2",
-          "motivation": {
-            "en": "for the development of multiscale models for complex chemical systems",
-            "se": "för utvecklandet av flerskalemodeller för komplexa kemiska system"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/890",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "891",
-          "knownName": { "en": "Arieh Warshel" },
-          "fullName": { "en": "Arieh Warshel" },
-          "portion": "1/3",
-          "sortOrder": "3",
-          "motivation": {
-            "en": "for the development of multiscale models for complex chemical systems",
-            "se": "för utvecklandet av flerskalemodeller för komplexa kemiska system"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/891",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "awardYear": "2012",
-      "category": { "en": "Chemistry", "no": "Kjemi", "se": "Kemi" },
-      "categoryFullName": {
-        "en": "The Nobel Prize in Chemistry",
-        "no": "Nobelprisen i kjemi",
-        "se": "Nobelpriset i kemi"
-      },
-      "dateAwarded": "2012-10-10",
-      "prizeAmount": 8000000,
-      "prizeAmountAdjusted": 8512821,
-      "links": [
-        {
-          "rel": "nobelPrize",
-          "href": "https://api.nobelprize.org/2/nobelPrize/che/2012",
-          "action": "GET",
-          "types": "application/json"
-        }
-      ],
-      "laureates": [
-        {
-          "id": "878",
-          "knownName": { "en": "Robert J. Lefkowitz" },
-          "fullName": { "en": "Robert J. Lefkowitz" },
-          "portion": "1/2",
-          "sortOrder": "1",
-          "motivation": {
-            "en": "for studies of G-protein-coupled receptors",
-            "se": "”för studier av G-proteinkopplade receptorer”"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/878",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "879",
-          "knownName": { "en": "Brian Kobilka" },
-          "fullName": { "en": "Brian K. Kobilka" },
-          "portion": "1/2",
-          "sortOrder": "2",
-          "motivation": {
-            "en": "for studies of G-protein-coupled receptors",
-            "se": "”för studier av G-proteinkopplade receptorer”"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/879",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "awardYear": "2011",
-      "category": { "en": "Chemistry", "no": "Kjemi", "se": "Kemi" },
-      "categoryFullName": {
-        "en": "The Nobel Prize in Chemistry",
-        "no": "Nobelprisen i kjemi",
-        "se": "Nobelpriset i kemi"
-      },
-      "dateAwarded": "2011-10-05",
-      "prizeAmount": 10000000,
-      "prizeAmountAdjusted": 10736783,
-      "links": [
-        {
-          "rel": "nobelPrize",
-          "href": "https://api.nobelprize.org/2/nobelPrize/che/2011",
-          "action": "GET",
-          "types": "application/json"
-        }
-      ],
-      "laureates": [
-        {
-          "id": "867",
-          "knownName": { "en": "Dan Shechtman" },
-          "fullName": { "en": "Dan Shechtman" },
-          "portion": "1",
-          "sortOrder": "1",
-          "motivation": {
-            "en": "for the discovery of quasicrystals",
-            "se": "för upptäckten av kvasikristaller"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/867",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "awardYear": "2010",
-      "category": { "en": "Chemistry", "no": "Kjemi", "se": "Kemi" },
-      "categoryFullName": {
-        "en": "The Nobel Prize in Chemistry",
-        "no": "Nobelprisen i kjemi",
-        "se": "Nobelpriset i kemi"
-      },
-      "dateAwarded": "2010-10-06",
-      "prizeAmount": 10000000,
-      "prizeAmountAdjusted": 11015580,
-      "links": [
-        {
-          "rel": "nobelPrize",
-          "href": "https://api.nobelprize.org/2/nobelPrize/che/2010",
-          "action": "GET",
-          "types": "application/json"
-        }
-      ],
-      "laureates": [
-        {
-          "id": "851",
-          "knownName": { "en": "Richard F. Heck" },
-          "fullName": { "en": "Richard F. Heck" },
-          "portion": "1/3",
-          "sortOrder": "1",
-          "motivation": {
-            "en": "for palladium-catalyzed cross couplings in organic synthesis",
-            "se": "för palladiumkatalyserade korskopplingar i organisk syntes"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/851",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "852",
-          "knownName": { "en": "Ei-ichi Negishi" },
-          "fullName": { "en": "Ei-ichi Negishi" },
-          "portion": "1/3",
-          "sortOrder": "2",
-          "motivation": {
-            "en": "for palladium-catalyzed cross couplings in organic synthesis",
-            "se": "för palladiumkatalyserade korskopplingar i organisk syntes"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/852",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "853",
-          "knownName": { "en": "Akira Suzuki" },
-          "fullName": { "en": "Akira Suzuki" },
-          "portion": "1/3",
-          "sortOrder": "3",
-          "motivation": {
-            "en": "for palladium-catalyzed cross couplings in organic synthesis",
-            "se": "för palladiumkatalyserade korskopplingar i organisk syntes"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/853",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "awardYear": "2009",
-      "category": { "en": "Chemistry", "no": "Kjemi", "se": "Kemi" },
-      "categoryFullName": {
-        "en": "The Nobel Prize in Chemistry",
-        "no": "Nobelprisen i kjemi",
-        "se": "Nobelpriset i kemi"
-      },
-      "dateAwarded": "2009-10-07",
-      "prizeAmount": 10000000,
-      "prizeAmountAdjusted": 11157218,
-      "links": [
-        {
-          "rel": "nobelPrize",
-          "href": "https://api.nobelprize.org/2/nobelPrize/che/2009",
-          "action": "GET",
-          "types": "application/json"
-        }
-      ],
-      "laureates": [
-        {
-          "id": "841",
-          "knownName": { "en": "Venkatraman Ramakrishnan" },
-          "fullName": { "en": "Venkatraman Ramakrishnan" },
-          "portion": "1/3",
-          "sortOrder": "1",
-          "motivation": {
-            "en": "for studies of the structure and function of the ribosome",
-            "se": "för studier av ribosomens struktur och funktion"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/841",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "842",
-          "knownName": { "en": "Thomas A. Steitz" },
-          "fullName": { "en": "Thomas A. Steitz" },
-          "portion": "1/3",
-          "sortOrder": "2",
-          "motivation": {
-            "en": "for studies of the structure and function of the ribosome",
-            "se": "för studier av ribosomens struktur och funktion"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/842",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "843",
-          "knownName": { "en": "Ada E. Yonath" },
-          "fullName": { "en": "Ada E. Yonath" },
-          "portion": "1/3",
-          "sortOrder": "3",
-          "motivation": {
-            "en": "for studies of the structure and function of the ribosome",
-            "se": "för studier av ribosomens struktur och funktion"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/843",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "awardYear": "2008",
-      "category": { "en": "Chemistry", "no": "Kjemi", "se": "Kemi" },
-      "categoryFullName": {
-        "en": "The Nobel Prize in Chemistry",
-        "no": "Nobelprisen i kjemi",
-        "se": "Nobelpriset i kemi"
-      },
-      "dateAwarded": "2008-10-08",
-      "prizeAmount": 10000000,
-      "prizeAmountAdjusted": 11124709,
-      "links": [
-        {
-          "rel": "nobelPrize",
-          "href": "https://api.nobelprize.org/2/nobelPrize/che/2008",
-          "action": "GET",
-          "types": "application/json"
-        }
-      ],
-      "laureates": [
-        {
-          "id": "829",
-          "knownName": { "en": "Osamu Shimomura" },
-          "fullName": { "en": "Osamu Shimomura" },
-          "portion": "1/3",
-          "sortOrder": "1",
-          "motivation": {
-            "en": "for the discovery and development of the green fluorescent protein, GFP",
-            "se": "för upptäckt och utveckling av det grönt fluorescerande proteinet, GFP"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/829",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "830",
-          "knownName": { "en": "Martin Chalfie" },
-          "fullName": { "en": "Martin Chalfie" },
-          "portion": "1/3",
-          "sortOrder": "2",
-          "motivation": {
-            "en": "for the discovery and development of the green fluorescent protein, GFP",
-            "se": "för upptäckt och utveckling av det grönt fluorescerande proteinet, GFP"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/830",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "831",
-          "knownName": { "en": "Roger Y. Tsien" },
-          "fullName": { "en": "Roger Y. Tsien" },
-          "portion": "1/3",
-          "sortOrder": "3",
-          "motivation": {
-            "en": "for the discovery and development of the green fluorescent protein, GFP",
-            "se": "för upptäckt och utveckling av det grönt fluorescerande proteinet, GFP"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/831",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "awardYear": "2007",
-      "category": { "en": "Chemistry", "no": "Kjemi", "se": "Kemi" },
-      "categoryFullName": {
-        "en": "The Nobel Prize in Chemistry",
-        "no": "Nobelprisen i kjemi",
-        "se": "Nobelpriset i kemi"
-      },
-      "dateAwarded": "2007-10-10",
-      "prizeAmount": 10000000,
-      "prizeAmountAdjusted": 11506932,
-      "links": [
-        {
-          "rel": "nobelPrize",
-          "href": "https://api.nobelprize.org/2/nobelPrize/che/2007",
-          "action": "GET",
-          "types": "application/json"
-        }
-      ],
-      "laureates": [
-        {
-          "id": "816",
-          "knownName": { "en": "Gerhard Ertl" },
-          "fullName": { "en": "Gerhard Ertl" },
-          "portion": "1",
-          "sortOrder": "1",
-          "motivation": {
-            "en": "for his studies of chemical processes on solid surfaces",
-            "se": "för hans studier av kemiska processer på fasta ytor"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/816",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "awardYear": "2006",
-      "category": { "en": "Chemistry", "no": "Kjemi", "se": "Kemi" },
-      "categoryFullName": {
-        "en": "The Nobel Prize in Chemistry",
-        "no": "Nobelprisen i kjemi",
-        "se": "Nobelpriset i kemi"
-      },
-      "dateAwarded": "2006-10-04",
-      "prizeAmount": 10000000,
-      "prizeAmountAdjusted": 11762169,
-      "links": [
-        {
-          "rel": "nobelPrize",
-          "href": "https://api.nobelprize.org/2/nobelPrize/che/2006",
-          "action": "GET",
-          "types": "application/json"
-        }
-      ],
-      "laureates": [
-        {
-          "id": "806",
-          "knownName": { "en": "Roger D. Kornberg" },
-          "fullName": { "en": "Roger D. Kornberg" },
-          "portion": "1",
-          "sortOrder": "1",
-          "motivation": {
-            "en": "for his studies of the molecular basis of eukaryotic transcription",
-            "se": "för hans studier av den molekylära grunden för eukaryot transkription"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/806",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "awardYear": "2005",
-      "category": { "en": "Chemistry", "no": "Kjemi", "se": "Kemi" },
-      "categoryFullName": {
-        "en": "The Nobel Prize in Chemistry",
-        "no": "Nobelprisen i kjemi",
-        "se": "Nobelpriset i kemi"
-      },
-      "dateAwarded": "2005-10-05",
-      "prizeAmount": 10000000,
-      "prizeAmountAdjusted": 11923798,
-      "links": [
-        {
-          "rel": "nobelPrize",
-          "href": "https://api.nobelprize.org/2/nobelPrize/che/2005",
-          "action": "GET",
-          "types": "application/json"
-        }
-      ],
-      "laureates": [
-        {
-          "id": "794",
-          "knownName": { "en": "Yves Chauvin" },
-          "fullName": { "en": "Yves Chauvin" },
-          "portion": "1/3",
-          "sortOrder": "1",
-          "motivation": {
-            "en": "for the development of the metathesis method in organic synthesis",
-            "se": "för utveckling av metates-metoden inom organisk syntes"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/794",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "795",
-          "knownName": { "en": "Robert H. Grubbs" },
-          "fullName": { "en": "Robert H. Grubbs" },
-          "portion": "1/3",
-          "sortOrder": "2",
-          "motivation": {
-            "en": "for the development of the metathesis method in organic synthesis",
-            "se": "för utveckling av metates-metoden inom organisk syntes"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/795",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "796",
-          "knownName": { "en": "Richard R. Schrock" },
-          "fullName": { "en": "Richard R. Schrock" },
-          "portion": "1/3",
-          "sortOrder": "3",
-          "motivation": {
-            "en": "for the development of the metathesis method in organic synthesis",
-            "se": "för utveckling av metates-metoden inom organisk syntes"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/796",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "awardYear": "2004",
-      "category": { "en": "Chemistry", "no": "Kjemi", "se": "Kemi" },
-      "categoryFullName": {
-        "en": "The Nobel Prize in Chemistry",
-        "no": "Nobelprisen i kjemi",
-        "se": "Nobelpriset i kemi"
-      },
-      "dateAwarded": "2004-10-06",
-      "prizeAmount": 10000000,
-      "prizeAmountAdjusted": 11976161,
-      "links": [
-        {
-          "rel": "nobelPrize",
-          "href": "https://api.nobelprize.org/2/nobelPrize/che/2004",
-          "action": "GET",
-          "types": "application/json"
-        }
-      ],
-      "laureates": [
-        {
-          "id": "779",
-          "knownName": { "en": "Aaron Ciechanover" },
-          "fullName": { "en": "Aaron Ciechanover" },
-          "portion": "1/3",
-          "sortOrder": "1",
-          "motivation": {
-            "en": "for the discovery of ubiquitin-mediated protein degradation",
-            "se": "för upptäckten av ubiquitinmedierad proteinnedbrytning"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/779",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "780",
-          "knownName": { "en": "Avram Hershko" },
-          "fullName": { "en": "Avram Hershko" },
-          "portion": "1/3",
-          "sortOrder": "2",
-          "motivation": {
-            "en": "for the discovery of ubiquitin-mediated protein degradation",
-            "se": "för upptäckten av ubiquitinmedierad proteinnedbrytning"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/780",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "781",
-          "knownName": { "en": "Irwin Rose" },
-          "fullName": { "en": "Irwin Rose" },
-          "portion": "1/3",
-          "sortOrder": "3",
-          "motivation": {
-            "en": "for the discovery of ubiquitin-mediated protein degradation",
-            "se": "för upptäckten av ubiquitinmedierad proteinnedbrytning"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/781",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "awardYear": "2003",
-      "category": { "en": "Chemistry", "no": "Kjemi", "se": "Kemi" },
-      "categoryFullName": {
-        "en": "The Nobel Prize in Chemistry",
-        "no": "Nobelprisen i kjemi",
-        "se": "Nobelpriset i kemi"
-      },
-      "dateAwarded": "2003-10-08",
-      "topMotivation": {
-        "en": "for discoveries concerning channels in cell membranes"
-      },
-      "prizeAmount": 10000000,
-      "prizeAmountAdjusted": 12021411,
-      "links": [
-        {
-          "rel": "nobelPrize",
-          "href": "https://api.nobelprize.org/2/nobelPrize/che/2003",
-          "action": "GET",
-          "types": "application/json"
-        }
-      ],
-      "laureates": [
-        {
-          "id": "769",
-          "knownName": { "en": "Peter Agre" },
-          "fullName": { "en": "Peter Agre" },
-          "portion": "1/2",
-          "sortOrder": "1",
-          "motivation": {
-            "en": "for the discovery of water channels",
-            "se": "för upptäckten av vattenkanaler"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/769",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "770",
-          "knownName": { "en": "Roderick MacKinnon" },
-          "fullName": { "en": "Roderick MacKinnon" },
-          "portion": "1/2",
-          "sortOrder": "2",
-          "motivation": {
-            "en": "for structural and mechanistic studies of ion channels",
-            "se": "för strukturella och mekanistiska studier av jonkanaler"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/770",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "awardYear": "2002",
-      "category": { "en": "Chemistry", "no": "Kjemi", "se": "Kemi" },
-      "categoryFullName": {
-        "en": "The Nobel Prize in Chemistry",
-        "no": "Nobelprisen i kjemi",
-        "se": "Nobelpriset i kemi"
-      },
-      "dateAwarded": "2002-10-09",
-      "topMotivation": {
-        "en": "for the development of methods for identification and structure analyses of biological macromolecules"
-      },
-      "prizeAmount": 10000000,
-      "prizeAmountAdjusted": 12252888,
-      "links": [
-        {
-          "rel": "nobelPrize",
-          "href": "https://api.nobelprize.org/2/nobelPrize/che/2002",
-          "action": "GET",
-          "types": "application/json"
-        }
-      ],
-      "laureates": [
-        {
-          "id": "756",
-          "knownName": { "en": "John B. Fenn" },
-          "fullName": { "en": "John B. Fenn" },
-          "portion": "1/4",
-          "sortOrder": "1",
-          "motivation": {
-            "en": "for their development of soft desorption ionisation methods for mass spectrometric analyses of biological macromolecules",
-            "se": "för deras utveckling av mjuka desorptionsjonisationsmetoder för masspektrometrisk analys av biologiska makromolekyler"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/756",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "757",
-          "knownName": { "en": "Koichi Tanaka" },
-          "fullName": { "en": "Koichi Tanaka" },
-          "portion": "1/4",
-          "sortOrder": "2",
-          "motivation": {
-            "en": "for their development of soft desorption ionisation methods for mass spectrometric analyses of biological macromolecules",
-            "se": "för deras utveckling av mjuka desorptionsjonisationsmetoder för masspektrometrisk analys av biologiska makromolekyler"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/757",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "758",
-          "knownName": { "en": "Kurt Wüthrich" },
-          "fullName": { "en": "Kurt Wüthrich" },
-          "portion": "1/2",
-          "sortOrder": "3",
-          "motivation": {
-            "en": "for his development of nuclear magnetic resonance spectroscopy for determining the three-dimensional structure of biological macromolecules in solution",
-            "se": "för hans utveckling av kärnmagnetisk resonansspektroskopi för bestämning av biologiska makromolekylers tredimensionella struktur i lösning"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/758",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "awardYear": "2001",
-      "category": { "en": "Chemistry", "no": "Kjemi", "se": "Kemi" },
-      "categoryFullName": {
-        "en": "The Nobel Prize in Chemistry",
-        "no": "Nobelprisen i kjemi",
-        "se": "Nobelpriset i kemi"
-      },
-      "dateAwarded": "2001-10-10",
-      "prizeAmount": 10000000,
-      "prizeAmountAdjusted": 12518033,
-      "links": [
-        {
-          "rel": "nobelPrize",
-          "href": "https://api.nobelprize.org/2/nobelPrize/che/2001",
-          "action": "GET",
-          "types": "application/json"
-        }
-      ],
-      "laureates": [
-        {
-          "id": "741",
-          "knownName": { "en": "William Knowles" },
-          "fullName": { "en": "William S. Knowles" },
-          "portion": "1/4",
-          "sortOrder": "1",
-          "motivation": {
-            "en": "for their work on chirally catalysed hydrogenation reactions",
-            "se": "för deras arbeten över kiralt katalyserade hydrogeneringssreaktioner"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/741",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "742",
-          "knownName": { "en": "Ryoji Noyori" },
-          "fullName": { "en": "Ryoji Noyori" },
-          "portion": "1/4",
-          "sortOrder": "2",
-          "motivation": {
-            "en": "for their work on chirally catalysed hydrogenation reactions",
-            "se": "för deras arbeten över kiralt katalyserade hydrogeneringssreaktioner"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/742",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "743",
-          "knownName": { "en": "K. Barry Sharpless" },
-          "fullName": { "en": "K. Barry Sharpless" },
-          "portion": "1/2",
-          "sortOrder": "3",
-          "motivation": {
-            "en": "for his work on chirally catalysed oxidation reactions",
-            "se": "för hans arbeten över kiralt katalyserade oxidationsreaktioner"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/743",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "awardYear": "2000",
-      "category": { "en": "Chemistry", "no": "Kjemi", "se": "Kemi" },
-      "categoryFullName": {
-        "en": "The Nobel Prize in Chemistry",
-        "no": "Nobelprisen i kjemi",
-        "se": "Nobelpriset i kemi"
-      },
-      "dateAwarded": "2000-10-10",
-      "prizeAmount": 9000000,
-      "prizeAmountAdjusted": 11538617,
-      "links": [
-        {
-          "rel": "nobelPrize",
-          "href": "https://api.nobelprize.org/2/nobelPrize/che/2000",
-          "action": "GET",
-          "types": "application/json"
-        }
-      ],
-      "laureates": [
-        {
-          "id": "729",
-          "knownName": { "en": "Alan Heeger" },
-          "fullName": { "en": "Alan J. Heeger" },
-          "portion": "1/3",
-          "sortOrder": "1",
-          "motivation": {
-            "en": "for the discovery and development of conductive polymers",
-            "se": "för upptäckten och utvecklandet av ledande polymerer"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/729",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "730",
-          "knownName": { "en": "Alan MacDiarmid" },
-          "fullName": { "en": "Alan G. MacDiarmid" },
-          "portion": "1/3",
-          "sortOrder": "2",
-          "motivation": {
-            "en": "for the discovery and development of conductive polymers",
-            "se": "för upptäckten och utvecklandet av ledande polymerer"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/730",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        },
-        {
-          "id": "731",
-          "knownName": { "en": "Hideki Shirakawa" },
-          "fullName": { "en": "Hideki Shirakawa" },
-          "portion": "1/3",
-          "sortOrder": "3",
-          "motivation": {
-            "en": "for the discovery and development of conductive polymers",
-            "se": "för upptäckten och utvecklandet av ledande polymerer"
-          },
-          "links": [
-            {
-              "rel": "laureate",
-              "href": "https://api.nobelprize.org/2/laureate/731",
-              "action": "GET",
-              "types": "application/json"
-            }
-          ]
-        }
-      ]
+    "links": {
+        "first": "https://masterdataapi.nobelprize.org/2.1/nobelPrizes?offset=0&limit=25&nobelPrizeCategory=che",
+        "self": "https://masterdataapi.nobelprize.org/2.1/nobelPrizes?offset=0&limit=25&nobelPrizeCategory=che",
+        "next": "https://masterdataapi.nobelprize.org/2.1/nobelPrizes?offset=25&limit=25&nobelPrizeCategory=che",
+        "last": "https://masterdataapi.nobelprize.org/2.1/nobelPrizes?offset=100&limit=25&nobelPrizeCategory=che"
     }
-  ],
-  "meta": {
-    "offset": 0,
-    "limit": 25,
-    "nobelPrizeYear": 2000,
-    "yearTo": 2022,
-    "nobelPrizeCategory": "che",
-    "count": 23,
-    "terms": "https://www.nobelprize.org/about/terms-of-use-for-api-nobelprize-org-and-data-nobelprize-org/",
-    "license": "https://www.nobelprize.org/about/terms-of-use-for-api-nobelprize-org-and-data-nobelprize-org/#licence",
-    "disclaimer": "https://www.nobelprize.org/about/terms-of-use-for-api-nobelprize-org-and-data-nobelprize-org/#disclaimer"
-  },
-  "links": {
-    "first": "https://masterdataapi.nobelprize.org/2.1/nobelPrizes?offset=0&limit=25&nobelPrizeYear=2000&yearTo=2022&nobelPrizeCategory=che",
-    "self": "https://masterdataapi.nobelprize.org/2.1/nobelPrizes?offset=0&limit=25&nobelPrizeYear=2000&yearTo=2022&nobelPrizeCategory=che",
-    "last": "https://masterdataapi.nobelprize.org/2.1/nobelPrizes?offset=0&limit=25&nobelPrizeYear=2000&yearTo=2022&nobelPrizeCategory=che"
-  }
 }

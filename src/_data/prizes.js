@@ -23,12 +23,12 @@ module.exports = async function () {
   let requestUrl = `${baseUrl}?${queryString}`;
 
   console.log(requestUrl);
+
   try {
     let prizesData = await eleventyFetch(requestUrl, {
       duration: "1d",
       type: "json"
     });
-    console.log(prizesData);
     return(prizesData);
   } catch (err) {
     console.error("Something went wrong with request\n" + requestUrl);

@@ -24,9 +24,17 @@ layout: base
     Second take:
     <a href="prizes-collection/">List of Nobel Prizes</a>
     <br/>
-    generated using collections (created by tags during pagination
-    <code>src/prizes.liquid</code>) and
-    <code>src/prizes-collection.liquid</code>
+    generated using <a href="https://www.11ty.dev/docs/collections/">11ty's collections</a> created by tags during <a href="https://www.11ty.dev/docs/pagination/">11ty's pagination</a> in
+    <code>src/prizes.liquid</code>.  The collection is used in <code>src/prizes-collection.liquid</code>
   </li>
-
 </ul>
+
+<p><strong>Liquid's render</strong>.  Note the use of <a href="https://liquidjs.com/tags/render.html">Liquid's render</a> and passing in variables being called 
+  in <code>src/prizes-list.liquid</code> and the template itself at 
+  <code>src/_includes/laureates.liquid</code></p>
+
+  <p><strong>Shortcodes</strong>.  Note the use of <a href="https://www.11ty.dev/docs/shortcodes/">11ty's shortcodes</a> being
+  called in <code>src/_includes/laureates.liquid</code> 
+  and being defined in <code>eleventy.config.js</code>.  The shortcode logic
+  is for the display name of the laureate, taking into account whether
+  it is a person or an organization.</p>
